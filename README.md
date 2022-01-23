@@ -1,5 +1,5 @@
 # Writing by Numbers
-This repository contains the datasets from my PhD thesis 'Writing by Numbers: Case Studies in Digital Art History'
+This repository contains the datasets from my PhD thesis 'Writing by Numbers: Case Studies in Digital Art History', together with a pdf of the thesis itself.
 
 There are two datasets:
 
