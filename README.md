@@ -1,5 +1,5 @@
 # Writing by Numbers
-This repository contains the datasets from my PhD thesis 'Writing by Numbers: Case Studies in Digital Art History', together with a pdf of the thesis itself.
+This repository contains the datasets from my PhD thesis 'Writing by Numbers: Case Studies in Digital Art History', together with a pdf of the thesis itself and a list of the documents included in my sample of critical writing on the nineteenth-century Paris Fine Art Salon.
 
 There are two datasets:
 
